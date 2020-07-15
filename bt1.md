@@ -10,7 +10,10 @@ sudo passwd user-2
 sudo useradd -m -c 'User3' user-3
 sudo passwd user-3
 
+![alt](http://image/create_user.png)
+
 ### Create group:
 sudo groupadd GroupA
 sudo groupadd GroupB
 
+![alt](http://image/create_group.png)
